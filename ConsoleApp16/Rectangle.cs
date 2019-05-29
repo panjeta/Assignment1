@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp15
+namespace ConsoleApp16
 {
     public class Rectangle
     {
